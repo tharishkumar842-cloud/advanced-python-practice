@@ -1,0 +1,16 @@
+my_dict={'a':1,'b':2,'c':3 ,'a':40}
+print(my_dict['a'])
+print(my_dict.get("d","unknown"))
+print(my_dict.keys())
+print(my_dict.values())
+print(my_dict.items())
+for key,value in my_dict.items():
+    print(key,value)
+my_dict.update({"d":5,"e":6})
+my_dict.pop("d")
+print(my_dict)
+my_dict.popitem()
+print(my_dict)
+
+
+
