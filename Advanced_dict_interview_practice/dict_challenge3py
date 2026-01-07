@@ -1,0 +1,10 @@
+words = ["apple", "banana", "apple", "orange", "banana", "apple"]
+freq={}
+for k in words:
+    if k in freq:
+        freq[k] += 1
+    else:
+        freq[k] = 1
+print(freq)
+
+
