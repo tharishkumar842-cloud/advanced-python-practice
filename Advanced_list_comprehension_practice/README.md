@@ -1,4 +1,4 @@
-ython Comprehension Practice
+python Comprehension Practice
 
 This repository contains Python list and dictionary comprehension examples designed for interview preparation and AI/ML-focused Python practice.
 
