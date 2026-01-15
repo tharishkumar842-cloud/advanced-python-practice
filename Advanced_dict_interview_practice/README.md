@@ -15,10 +15,9 @@ This repository contains Python programs focused on list and dictionary operatio
 
 ## Practice Codes
 
-### Code 1: Replace Multiples of 3
-This program checks each number in a list.  
-If the number is divisible by 3, it replaces it with "THREE".  
-It uses list comprehension for short and clean code.
+### Code 1: Merging of two dictionaries
+This program used to merge the two dictionaries without duplicates 
+
 
 ---
 
